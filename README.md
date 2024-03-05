@@ -39,7 +39,7 @@ jobs:
 
 # TODO / Roadmap
 - [ ] Supporting more authentication types
-- [ ] Supporting more asset types
+- [X] Supporting more asset types
 - [ ] Supporting more actions
 # Credits
 - Based on:
